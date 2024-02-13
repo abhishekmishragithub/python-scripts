@@ -1,3 +1,5 @@
+# TODO: Add the method to get cache hit, miss, and other info
+
 from collections import OrderedDict
 
 
